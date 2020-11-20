@@ -29,6 +29,11 @@ const questions = [
     name: "contribution",
     message: "Who contributed to your app?"
   },
+  {
+    type: "input",
+    name: "tests",
+    message: "Please incluse instructions on how to test."
+  },
 ]
 // function to write README file
 function writeToFile(fileName, data) {
