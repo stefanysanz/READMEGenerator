@@ -6,8 +6,9 @@ My task was to create a command-line application that dynamically generates a pr
 
 Because this is a command-line application that won’t be deployed, I provided a walkthrough video that demonstrates the functionality of my application. 
 
-  <img src=".img/readme.jpg" width="220" height="240" />
+ ![Check out the video here!](https://drive.google.com/file/d/1SEcC_Fykddi6K5ctFwrhoA_yEAPLQf3_/view?usp=sharing)
 
+<img src="img/readme.jpg" alt="screenshot" width="500" height="600">
 
 
 
