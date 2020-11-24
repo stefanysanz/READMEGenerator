@@ -8,7 +8,7 @@ Because this is a command-line application that won’t be deployed, I provided 
 
  [Check out my video here!](https://drive.google.com/file/d/1SEcC_Fykddi6K5ctFwrhoA_yEAPLQf3_/view?usp=sharing)
 
-<img src="img/readme.jpg" alt="screenshot" width="600" height="300">
+<img src="img/readme.jpg" alt="screenshot" width="800" height="400">
 
 
 
