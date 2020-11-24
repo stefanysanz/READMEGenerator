@@ -6,7 +6,7 @@ My task was to create a command-line application that dynamically generates a pr
 
 Because this is a command-line application that won’t be deployed, I provided a walkthrough video that demonstrates the functionality of my application. 
 
-[ReadMe](readme.jpg)
+  <img src=".img/readme.jpg" width="220" height="240" />
 
 
 
